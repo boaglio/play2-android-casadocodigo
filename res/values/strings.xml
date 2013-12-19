@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">top100filmescultmobile</string>
+    <string name="titulo">Top 100 filmes cult - Mobile</string>
+    <string name="buscar">buscar filmes</string>
+
+</resources>
